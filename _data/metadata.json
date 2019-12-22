@@ -1,16 +1,16 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Inoffensive and Warm",
+  "url": "https://inoffensiveandwarm.com/",
+  "description": "Musings of a lit fanatic",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Musings of a lit fanatic",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://inoffensiveandwarm.com/feed/feed.xml",
+    "id": "https://inoffensiveandwarm.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Dillon Morse",
+    "email": "dillon@inoffensiveandwarm.com"
   }
 }
